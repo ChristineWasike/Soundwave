@@ -1,7 +1,8 @@
 # Soundwave
 Soundwave is a music app. A mock up of the spotify web version.
 
-![Alt text](/assets/images/screenshots/Landing Page.png "Landing Page")
+![Image](https://i.imgur.com/dMsuEuh.png "Landing Page")
+![Image] (https://i.imgur.com/JkzHBt2.png "Feature Page")
 ## Installation
 Clone this repository and run it on a live server.
 
